@@ -6,23 +6,23 @@ Telephone: 18501683475</h4>
 </div>
 
 # Job Objective
-> software engineer
+> Software Engineer
 
 # Qualifications
-> easy to be a good team player.
-> study assiduously and perseveringly.
-> serious working attitude, energetic, hard-working and enduring hardship
+> Easy to be a good team player.
+> Study assiduously and perseveringly.
+> Serious working attitude, energetic, hard-working and enduring hardship
 
 # Education
-> 2008-2012 : HeFei University of Technology, Major in mechanism (Junior college education)
+> 2008-2012: HeFei University of Technology, Major in mechanism (Junior college education)
 
 # Experience
 #### DFRobot (2013.04-2015.12)
 
 # Skills and Interests
 - iOS/swift
-- html/Node/Bootstrap
-- arduino/processing
+- HTML/Node/Bootstrap
+- Arduino/processing
 - C/C++/Python
-- ps/CAD
+- PS/CAD
 
