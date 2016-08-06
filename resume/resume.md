@@ -19,7 +19,6 @@ Telephone: 18501683475</h4>
 # Experience
 #### DFRobot (2013.04-2015.12)
 
-
 # Skills and Interests
 - iOS/swift
 - html/Node/Bootstrap
